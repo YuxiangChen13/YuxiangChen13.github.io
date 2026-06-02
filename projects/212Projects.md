@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/HabitMainPage.png
+image: img/cmd.png
 title: "ICS 212 Bank Databse Project"
 date: 2025
 published: true
@@ -13,7 +13,7 @@ summary: "A command line program built during the ICS 212 Course."
 ---
 
 <div class="text-center p-4">
-  <img class="img-fluid" src="../img/HabitPlannerImg.png">
+  <img class="img-fluid" src="../img/Project.png">
 </div>
 
 This Bank Database Application (C & C++) is a command-line program I built that functions as a simple bank record management system, entirely using a text editor with no help from an IDE. The application allows users to add, find, delete, and print customer records, each containing an account number, name, and address through an interactive text menu. All records are stored in a sorted linked list in memory and automatically saved to and loaded from a file between sessions, so data persists across runs.
