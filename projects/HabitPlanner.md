@@ -13,9 +13,7 @@ summary: "A simple habit planning web app I developed when I first enrolled in U
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/HabitPlannerimg.png" class="img-thumbnail" >
 </div>
 
 Habit Planner is a productivity web app I designed and built entirely using HTML, CSS, and JavaScript during my first year of University. The app allows users to list daily habits, track their completion over time, and monitor streaks and weekly progress. Everything runs locally in the browser, with data persisted through the browser's localStorage.
