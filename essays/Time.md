@@ -15,7 +15,7 @@ labels:
 
 Underestimating time is something everyone does constantly. Not just with code, but with everything. "I'll be ready in five minutes." "This should only take an hour." "I'll finish this tonight." These are things people say with complete confidence, and it's something im guilty of as well. Most importantly, I am wrong about it more often than I'd like to admit. 
 
-
+<br>
 ## In Coding
 <p align="center">
 <img width="400px" class="img-fluid" src="../img/CodeStuck.jpg">
