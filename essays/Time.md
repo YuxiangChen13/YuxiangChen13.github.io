@@ -10,10 +10,12 @@ labels:
   - Time Management
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/Clock.webp">
 
 
-Underestimating time is something everyone does constantly. Not just with code, but with everything. "I'll be ready in five minutes." "This should only take an hour." "I'll finish this tonight." These are things people say with complete confidence, and it's something im guilty of as well. Most importantly, I am wrong about it more often than I'd like to admit. Then you hit the first hitch. It's small, nothing huge, but fixing it reveals another problem underneath it. And that problem leads to another problem. An hour later you're sat down debugging something you didn't even know existed when the project started.
+Underestimating time is something everyone does constantly. Not just with code, but with everything. "I'll be ready in five minutes." "This should only take an hour." "I'll finish this tonight." These are things people say with complete confidence, and it's something im guilty of as well. Most importantly, I am wrong about it more often than I'd like to admit. 
+
+Then you hit the first hitch. It's small, nothing huge, but fixing it reveals another problem underneath it. And that problem leads to another problem. An hour later you're sat down debugging something you didn't even know existed when the project started.
 
 
 ## In Coding
