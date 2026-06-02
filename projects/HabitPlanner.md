@@ -22,4 +22,4 @@ This project was my first experience building a functional, albeit easy web appl
 
 Deploying the project through GitHub Pages taught me the basics of site hosting. Beyond the technical skills, this project helped me understand what it means to think like a developer, first understanding and breaking a problem into smaller pieces, then debugging unexpected behavior, and finally iterating on a design until it feels polished.
 
-You can see the codebase for this project at the [Github page](https://github.com/YuxiangChen13/Habit-Planner).
+You can see the codebase for this project at the [Github page](https://github.com/YuxiangChen13/Habit-Planner), as well as the actual app [here](https://yuxiangchen13.github.io/Habit-Planner/).
