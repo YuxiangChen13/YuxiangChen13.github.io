@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cmd2.png
+image: img/Calculator.jpg
 title: "Calculator"
 date: 2023
 published: true
@@ -13,7 +13,7 @@ summary: "A very basic calculator capable of all four basic functions."
 ---
 
 <div class="text-center p-4">
-  <img class="img-fluid" src="../img/Project.png">
+  <img class="img-fluid" src="../img/CalcMain.png">
 </div>
 
 This Calculator is a web based math calculator I designed and built using HTML, CSS, and JavaScript. The app supports all four basic operations. Addition, subtraction, multiplication, and division along with percentage calculations, positive/negative toggling, and a live expression display that shows the full equation as numbers are entered. It also handles edge cases like divide-by-zero.
