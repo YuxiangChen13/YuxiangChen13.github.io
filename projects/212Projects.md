@@ -22,4 +22,4 @@ This project was instructed to be built during ICS 212, and it was instructed to
 
 As the project had strict requirements, there were many challenging aspects, such as implementing the debug mode, a command-line flag that, when passed, prints detailed diagnostic output for every function call including parameter values and memory addresses. This taught me how to think about program state at a low level and how to build observability into a system from the start, a habit that carries over into any kind of software development. Overall this project gave me a strong foundation in systems programming, data structures, and the fundamentals of how programs manage memory. At an overall level, this project was the culmination of the C and C++ Knowledge I learnt during the class. 
 
-You can see the codebase for this project at the [Github page](https://github.com/YuxiangChen13/Projects).
+You can see the codebase for this project at the [Github page](https://github.com/YuxiangChen13/Projects), As well as the actual app [here](https://yuxiangchen13.github.io/Habit-Planner/).
