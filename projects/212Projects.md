@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cmd.png
+image: img/cmd2.png
 title: "ICS 212 Bank Database Project"
 date: 2025
 published: true
