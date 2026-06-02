@@ -4,7 +4,7 @@ type: essay
 title: "My Interest in Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2026-06-01
-published: false
+published: true
 labels:
   - Coding
   - Software Engineering
