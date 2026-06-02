@@ -20,6 +20,8 @@ Then you hit the first hitch. It's small, nothing huge, but fixing it reveals an
 
 ## In Coding
 
+<img class="img-fluid" src="../img/CodeStuck.jpg">
+
 The thought process always goes something like this: I know what I want to do. I can picture it clearly. How hard can it be to just make it? So you sit down, give yourself a few hours, open your IDE, and start. For a while, things might go smoothly, the basics come together. It starts to look like the thing you imagined, and you think to yourself, "okay, just thirty more minutes left on this."
 
 Now the more I thought about this, the more I realized it shows up everywhere. Moving into a new place, starting a paper the night before its due, trying to learn something new. These are all the same mistakes but differently dressed. We see the end goal, but we underestimate the terrain between here and there. Programming in particular is fairly brutal about exposing this issue, as the problems are usually invisible until you run into them. 
