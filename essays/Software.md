@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/codeSE.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/codeSE.jpg">
 
 ## Introduction
 
@@ -22,11 +22,11 @@ The ability to transform ideas into functional applications is both challenging 
 
 In the future, I hope to strengthen my technical skills in programming, software architecture, and system design. Gaining experience with different programming languages and development methods will help me adapt to a variety of projects and challenges. I also want to improve my debugging and problem solving skills, as these skills are essential for identifying and resolving software issues efficiently. Furthermore, I am interested in learning more about new technologies such as AI and machine learning to expand my knowledge of the field.
 
-## Future Goals and Experiences
+## Potential Future Goals and Experiences
 
 Beyond technical skills, I hope to gain experience working in collaborative software development environments. Software engineering often requires teamwork, communication, and project management, making these skills just as important as coding ability. Through this class and it's final project, I aim to develop both my technical and professional abilities, as well as meet new people and learn how to communicate to work on a project. These experiences will help prepare me for a successful career in software engineering and enable me to contribute to innovative and impactful technology solutions.
 
-## Conclusion
+## Broad Conclusion
 
-Within the broader field of Information and Computer Science, software engineering provides the foundation for creating reliable and efficient software systems. Many areas of ICS depend on strong software engineering practices. By continuing to develop my programming skills, learning new technologies, and gaining real-world experience, I hope to become a well-rounded software engineer capable of designing effective solutions to complex problems. This field provides opportunities for growth, making ICS314 an exciting class that aligns with my interests and future aspirations.
+Within the broader field of Information and Computer Science, software engineering provides the foundation for creating reliable and efficient software systems. Many areas of ICS depend on strong software engineering practices. By continuing to develop my programming skills, learning new technologies, and gaining real-world experience, I hope to become a well-rounded software engineer capable of designing effective solutions to complex problems. This field provides opportunities for growth, making ICS 314 an exciting class that aligns with my interests and future goals.
 
