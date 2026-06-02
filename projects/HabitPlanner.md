@@ -6,9 +6,9 @@ title: "Habit Planner"
 date: 2023
 published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
+  - Productivity
+  - CSS
+  - HTML
 summary: "A simple habit planning web app I developed when I first enrolled in UH."
 ---
 
