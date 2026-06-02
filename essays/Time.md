@@ -17,8 +17,9 @@ Underestimating time is something everyone does constantly. Not just with code, 
 
 
 ## In Coding
-
+<p align="center">
 <img width="400px" class="img-fluid" src="../img/CodeStuck.jpg">
+</p>
 
 The thought process always goes something like this: I know what I want to do. I can picture it clearly. How hard can it be to just make it? So you sit down, give yourself a few hours, open your IDE, and start. For a while, things might go smoothly, the basics come together. It starts to look like the thing you imagined, and you think to yourself, "okay, just thirty more minutes left on this."
 
