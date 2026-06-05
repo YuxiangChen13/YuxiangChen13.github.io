@@ -20,11 +20,12 @@ The athletic software engineering approach was very different from the way I nor
 
 I believe in the value of the system. Repetition builds familiarity, and familiarity increases speed. I believe the WODs can make me more comfortable navigating unfamiliar code and help me learn how to solve problems quickly. In a way, the exercises simulate real-world software engineering, where developers often need to debug or implement features under deadlines.
 
-That said, the learning style can definitely be stressful. Although we haven't had any yet, I imagine for the quiz verisons, failing a timed exercise can definitely be discouraging, especially when the solution seems obvious afterward. Still, I think the process can become more enjoyable over time as confidence improves. 
-
 <p align="center">
 <img width="400px" class="img-fluid" src="../img/CodeStuck.jpg">
 </p>
+
+That said, the learning style can definitely be stressful. Although we haven't had any yet, I imagine for the quiz verisons, failing a timed exercise can definitely be discouraging, especially when the solution seems obvious afterward. Still, I think the process can become more enjoyable over time as confidence improves. 
+
 
 ## Will This Learning Style Work for Me?
 
