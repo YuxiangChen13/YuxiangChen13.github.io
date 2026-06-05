@@ -24,12 +24,12 @@ I believe in the value of the system. Repetition builds familiarity, and familia
 <img width="400px" class="img-fluid" src="../img/CodeStuck.jpg">
 </p>
 
-That said, the learning style can definitely be stressful. Although we haven't had any yet, I imagine for the quiz verisons, failing a timed exercise can definitely be discouraging, especially when the solution seems obvious afterward. Still, I think the process can become more enjoyable over time as confidence improves. 
+That said, the learning style can definitely be stressful. Although we haven't had any yet, I imagine for the quiz versions, failing a timed exercise can definitely be discouraging, especially when the solution seems obvious afterward. Still, I think the process can become more enjoyable over time as confidence improves. 
 
 
 ## Will This Learning Style Work for Me?
 
-I think this learning style can work for me, but only if I stay consistent. WODs rewards practice more than memorization. The more often I code, the more comfortable I become with syntax, debugging, and problem-solving patterns, and the better I can do on WODs. In return, the better i do on WODs, the better I can code under pressure. 
+I think this learning style can work for me, but only if I stay consistent. WODs reward practice more than memorization. The more often I code, the more comfortable I become with syntax, debugging, and problem-solving patterns, and the better I can do on WODs. In return, the better I do on WODs, the better I can code under pressure. 
 
 In the future, I think combining structured exercises like WODs with larger creative projects would be the best balance for learning. Timed exercises help build technical fluency, while projects help develop deeper understanding and creativity.
 
@@ -41,6 +41,6 @@ Before this module, I had almost no experience with TypeScript, so learning it f
 
 From a software engineering perspective, I think TypeScript is a strong programming language because it improves reliability without making development too difficult. The type system helps catch mistakes early, which is important when working on large projects or with multiple developers. It also encourages better organization and documentation because types describe how data should move through the program.
 
-One downside is that TypeScript can maybe feel strict, especially for beginners. There will be moments where you understood the logic of your program but still struggle with type errors. Usually, these errors usually exist for a reason, as TypeScript would be warning you about problems that could become real bugs later. Nometheless, in the moment, it might feel frustrating to deal with.
+One downside is that TypeScript can feel strict at times, especially for beginners. There will be moments where you understood the logic of your program but still struggle with type errors. Usually, these errors usually exist for a reason, as TypeScript would be warning you about problems that could become real bugs later. Nevertheless, in the moment, it might feel frustrating to deal with.
 
-Overall, I think TypeScript is a good language for software engineering because it balances productivity with safety, the language helps developers write cleaner and more maintainable code. 
+Overall, I think TypeScript is a good language for software engineering because it balances productivity with safety. The language helps developers write cleaner and more maintainable code.
