@@ -35,7 +35,7 @@ In the future, I think combining structured exercises like WODs with larger crea
 
 ## First Impressions of TypeScript
 
-Before this module, I had almost nno experience with TypeScript, so learning it felt mostly new at the time. However, since TypeScript is built on JavaScript, the syntax was not completely foreign, which made the learning process much easier. Compared to other programming languages I know, TypeScript feels like a middle ground. Languages like Python are very forgiving and easy to write quickly, but they can sometimes allow bugs to appear because types are checked only while the program is running. TypeScript adds more safety by checking errors before execution, which can save a lot of debugging time. At the same time, it is still more approachable than highly strict languages such as C++ or Java.
+Before this module, I had almost no experience with TypeScript, so learning it felt mostly new at the time. However, since TypeScript is built on JavaScript, the syntax was not completely foreign, which made the learning process much easier. Compared to other programming languages I know, TypeScript feels like a middle ground. Languages like Python are very forgiving and easy to write quickly, but they can sometimes allow bugs to appear because types are checked only while the program is running. TypeScript adds more safety by checking errors before execution, which can save a lot of debugging time. At the same time, it is still more approachable than highly strict languages such as C++ or Java.
 
 ## Is TypeScript Good Software Engineering?
 
