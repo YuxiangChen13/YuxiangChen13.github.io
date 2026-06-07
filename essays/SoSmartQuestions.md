@@ -11,7 +11,7 @@ labels:
   - Stack Overflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/codeSE.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/Stack-Overflow.jpg">
 
 ## Introduction
 
@@ -41,11 +41,11 @@ The responses to this question reflect the quality of the original post. The ans
 The not smart question I selected is: [django.core.exceptions.ImproperlyConfigured: Requested setting INSTALLED_APPS, but settings are not configured. plz help me out plz](https://stackoverflow.com/questions/61707581/django-core-exceptions-improperlyconfigured-requested-setting-installed-apps-b)
 Shown below is the post: 
 ```
-I'm trying to connect a form with the database but I encounter this error any expert plz help
 # Source - https://stackoverflow.com/q/61707581
 # Posted by Usama Shafique
 # Retrieved 2026-06-06, License - CC BY-SA 4.0
 
+I'm trying to connect a form with the database but I encounter this error any expert plz help
 from django.shortcuts import render, redirect
 from django.contrib.auth.models import User, auth
 from django.conf import settings
