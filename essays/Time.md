@@ -4,7 +4,7 @@ type: essay
 title: "Why Do We Underestimate Time?"
 # All dates must be YYYY-MM-DD format!
 date: 2026-06-01
-published: false
+published: true
 labels:
   - Coding
   - Time Management
