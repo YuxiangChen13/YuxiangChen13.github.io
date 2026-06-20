@@ -4,14 +4,14 @@ type: essay
 title: "A week with ESLint, for better or for worse"
 # All dates must be YYYY-MM-DD format!
 date: 2026-06-20
-published: false
+published: true
 labels:
   - Coding Standards
   - Software Engineering
   - ES Lint
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/Stack-Overflow.jpg">
+<img width="500px" class="rounded float-start pe-4" src="../img/esLintimg.png">
 
 ## The Most Important Software Engineering Technique
 
