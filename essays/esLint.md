@@ -11,7 +11,7 @@ labels:
   - ES Lint
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/esLintimg.png">
+<img width="450px" class="rounded float-start pe-4" src="../img/esLintimg.png">
 
 ## The Most Important Software Engineering Technique
 
